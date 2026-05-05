@@ -1,0 +1,15 @@
+# Config files with credentials
+mail163.conf
+*.conf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.json
